@@ -14,12 +14,18 @@ def format_values(value):
 
 @st.cache_resource
 def load_model():
-    with open(r"C:\carpriceprediction\saved_models\RandomForestRegressor.pkl", 'rb') as f:
-        model = pickle.load(f)
-    with open(r"C:\carpriceprediction\saved_scaling\scaler.pkl", 'rb') as f:
-        scaler = pickle.load(f)
-    return model, scaler
+    BASE_DIR = os.path.dirname(__file__)
 
+    model_path = os.path.join(BASE_DIR, "saved_models", "RandomForestRegressor.pkl")
+    scaler_path = os.path.join(BASE_DIR, "saved_scaling", "scaler.pkl")
+
+    with open(model_path, "rb") as f:
+        model = pickle.load(f)
+
+    with open(scaler_path, "rb") as f:
+        scaler = pickle.load(f)
+
+    return model, scaler
 model, scaler = load_model()
 
 st.set_page_config(
