@@ -44,7 +44,7 @@ The application provides an intuitive web interface where users can enter vehicl
 ### Home Page
 
 ```
-![Home Page](images/Screenshot 2026-07-19 235701.png.png)Screenshot 2026-07-19 235701.png
+![Home Page](Screenshot%202026-07-19%20235701.png)
 ```
 
 ### Prediction Result
