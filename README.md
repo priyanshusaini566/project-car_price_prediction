@@ -47,12 +47,7 @@ The application provides an intuitive web interface where users can enter vehicl
 
 ### Prediction Result
 
-```
-<img width="1793" height="417" alt="image" src="https://github.com/user-attachments/assets/43e674ac-107b-4829-9a0e-e2b5445f3bba" />
-
-```
-
----
+![Prediction Result](Screenshot 2026-07-19 235811.png)
 
 ## 🛠️ Tech Stack
 
@@ -191,15 +186,14 @@ The model was evaluated using standard regression metrics.
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 
-> Replace this section with your actual evaluation results.
 
 Example:
 
 | Metric | Value |
 |---------|--------|
-| R² Score | 0.94 |
-| MAE | 0.45 |
-| RMSE | 0.72 |
+| Mean Absolute Error (MAE) | 104,768.87 |
+| Root Mean Squared Error (RMSE) | 231,314.16 |
+| R² Score | 0.9355 (93.55%) |
 
 ---
 
@@ -208,7 +202,7 @@ Example:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/priyanshusaini566/project-car_price_prediction.git
 ```
 
 ### Navigate to Project
@@ -259,20 +253,6 @@ pip install streamlit pandas numpy scikit-learn matplotlib seaborn
 2. Enter all required vehicle details.
 3. Click **Predict Price**.
 4. The trained Machine Learning model predicts the estimated selling price.
-
----
-
-## 📸 Screenshots
-
-Add screenshots inside the **images/** folder.
-
-Example:
-
-```
-images/
-    home.png
-    prediction.png
-```
 
 ---
 
@@ -332,13 +312,13 @@ B.Tech – Computer Science Engineering
 Machine Learning | Data Science | Python Developer
 
 GitHub:
-https://github.com/your-username
+https://github.com/priyanshusaini566
 
 LinkedIn:
-https://www.linkedin.com/in/your-profile
+www.linkedin.com/in/priyanshu-saini-3a2798326
 
 Email:
-your-email@example.com
+ps56646i4@gmail.com
 
 ---
 
