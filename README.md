@@ -44,7 +44,7 @@ The application provides an intuitive web interface where users can enter vehicl
 ### Home Page
 
 ```
-(Add Screenshot Here)
+
 ```
 
 ### Prediction Result
