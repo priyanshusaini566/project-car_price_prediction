@@ -1,6 +1,3 @@
-Demo
-[launch app](https://project-carpriceprediction-eghi692bn3ec68z2r226qr.streamlit.app/)
-
 # 🚗 Car Price Prediction AI
 
 > An end-to-end Machine Learning web application that predicts the selling price of used cars using vehicle specifications. Built with **Python**, **Scikit-learn**, and **Streamlit**.
@@ -25,7 +22,7 @@ The application provides an intuitive web interface where users can enter vehicl
 🌐 **Streamlit Application**
 
 
-[launch app](https://project-carpriceprediction-eghi692bn3ec68z2r226qr.streamlit.app/)
+[View Website](https://project-carpriceprediction-eghi692bn3ec68z2r226qr.streamlit.app/)
 
 ---
 
