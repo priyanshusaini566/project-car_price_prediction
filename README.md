@@ -47,7 +47,7 @@ The application provides an intuitive web interface where users can enter vehicl
 
 ### Prediction Result
 
-![Prediction Result](Screenshot 2026-07-19 235811.png)
+![Prediction Result](Screenshot%202026-07-19%20235811.png)
 
 ## 🛠️ Tech Stack
 
