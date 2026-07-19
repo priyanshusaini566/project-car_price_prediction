@@ -44,13 +44,15 @@ The application provides an intuitive web interface where users can enter vehicl
 ### Home Page
 
 ```
+<img width="1911" height="833" alt="image" src="https://github.com/user-attachments/assets/c5261e31-9d64-4f1d-a804-011324b61ac9" />
 
 ```
 
 ### Prediction Result
 
 ```
-(Add Screenshot Here)
+<img width="1793" height="417" alt="image" src="https://github.com/user-attachments/assets/43e674ac-107b-4829-9a0e-e2b5445f3bba" />
+
 ```
 
 ---
