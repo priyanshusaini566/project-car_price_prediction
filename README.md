@@ -44,8 +44,7 @@ The application provides an intuitive web interface where users can enter vehicl
 ### Home Page
 
 ```
-<img width="1911" height="833" alt="image" src="https://github.com/user-attachments/assets/c5261e31-9d64-4f1d-a804-011324b61ac9" />
-
+![Home Page](images/Screenshot 2026-07-19 235701.png.png)Screenshot 2026-07-19 235701.png
 ```
 
 ### Prediction Result
