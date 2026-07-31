@@ -13,7 +13,7 @@
 
 Buying or selling a used car often involves estimating a fair market price. This project leverages **Machine Learning** to predict the selling price of a used car based on multiple vehicle attributes.
 
-The application provides an intuitive web interface where users can enter vehicle details and receive an instant price prediction.
+The application provides an intuitive web interface where users can enter vehicle details and properties to receive an instant price prediction.
 
 ---
 
