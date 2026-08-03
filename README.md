@@ -1,6 +1,6 @@
 # 🚗 Car Price Prediction AI
 
-> An end-to-end Machine Learning web application that predicts the selling price of used cars using vehicle specifications. Built with **Python**, **Scikit-learn**, and **Streamlit**.
+> An end-to-end Machine Learning web application that predicts the selling price of used cars using vehicle specifications. Built with **Python**, **Scikit-learn**,**pandas**,**numpy**,**matplotlib** and **Streamlit**.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
