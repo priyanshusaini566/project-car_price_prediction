@@ -35,7 +35,6 @@ The application provides an intuitive web interface where users can enter vehicl
 - 📈 High-performance Random Forest Regressor
 - 🎯 User-friendly design
 - 💰 Automatic price formatting (Thousand, Lakh, Crore)
-- 📱 Responsive web application
 
 ---
 
