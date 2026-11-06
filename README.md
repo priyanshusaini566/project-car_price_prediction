@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overvie
 
 Buying or selling a used car often involves estimating a fair market price. This project leverages **Machine Learning** to predict the selling price of a used car based on multiple vehicle attributes.
 
